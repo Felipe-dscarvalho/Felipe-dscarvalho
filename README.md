@@ -2,7 +2,12 @@
 
 **`Matemático e Analista de dados`**
 ---
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-dos-santos-carvalho-562835199/)
+
 ### Linguagens e ferramentas
+
 <img
   align = "left"
   alt = "PostgreeSQL"
